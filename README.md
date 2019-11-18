@@ -21,3 +21,9 @@
 
 • Use of SwiftyJSON
 
+For the build to succeed you must add the following to the podfile.
+
+pod 'SwiftyJSON', '~> 4.0'
+pod 'Alamofire', '~> 4.7'
+
+
